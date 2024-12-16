@@ -32,12 +32,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Mark Juven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 **Let's collaborate and create something awesome!**
